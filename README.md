@@ -1,5 +1,5 @@
 # SIMpy
-a very leightweight library for the simulation of Linear Time Invariant (LTI) and Non Linear (NL) systmes.
+a very leightweight library for the simulation of Linear Time Invariant (LTI) and Non-Linear (NL) systems.
 
 ## ToDo's
 * add inverted pendulum
