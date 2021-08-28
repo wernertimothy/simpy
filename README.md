@@ -10,6 +10,7 @@ a very leightweight library for the simulation of Linear Time Invariant (LTI) an
 To run the code the following packages are required:
 * [numpy](https://numpy.org)
 * [scipy](https://scipy.org)
+* [matplotlib](https://matplotlib.org)
 
 ## Example Systems
 Implented example systems:
