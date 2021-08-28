@@ -103,7 +103,7 @@ def f(self, x, u):
 lorenz_attractor._f = f.__get__(lorenz_attractor, sp.NL)
 ```
 
-<img src="https://github.com/wernertimothy/simpy/blob/master/doc/lorenz.gif"/>
+![Lorenz Attractor](/doc/lorenz.gif "lorenz attractor")
 
 necessary methods are:
 * f(self, x, u). The RHS vectorfield
